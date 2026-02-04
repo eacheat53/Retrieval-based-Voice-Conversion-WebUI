@@ -39,6 +39,7 @@ dependencies = [
 
     # Web/API
     "gradio==3.34.0",
+    "gradio_client==0.2.7",
     "fastapi==0.88",
     "uvicorn>=0.21.1",
     "httpx",
